@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**zdix-dev/zdix-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at Western Governors University
+with a background in inventory management and business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Pursuing a B.S. in Software Engineering (Java Track)
+- AWS Certified Cloud Practitioner
+- Aspiring Software Developer
+- Passionate about technology and continuous learning
+
+## Technologies I'm Learning
+
+- Java
+- Spring Boot
+- JavaScript
+- Angular
+- HTML & CSS
+- SQL
+- Git & GitHub
+- AWS
+
+## Current Goals
+
+- Strengthen my programming fundamentals
+- Build practical, real-world applications
+- Develop a professional software engineering portfolio
+- Transition into a career in technology
+
+## Projects
+
+Personal projects coming soon!
